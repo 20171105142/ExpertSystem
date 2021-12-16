@@ -1,0 +1,14 @@
+IF 毛囊皮根微红肿 THEN 轻型 
+IF 鼻塞流涕 THEN 外感风热 
+IF 舌苔薄黄 AND 胃纳差 THEN 肠胃积热 
+IF 眼睑局部明显红肿 THEN 重型 
+IF 眼睑局部红肿 AND 顶尖有脓点 THEN 重型 
+IF 脓点破溃 THEN 晚期 
+IF 轻型 AND 外感风热 THEN 轻风热型 
+IF 重型 AND 外感风热 THEN 重风热型 
+IF 重型 AND 肠胃积热 THEN 重积热型 
+IF 轻型 THEN 散癞法 
+IF 晚期 THEN 外敷药物 
+IF 轻风热型 THEN 散癞加罐 
+IF 重风热型 THEN 挑癞加罐 
+IF 重积热型 THEN 放血法 
